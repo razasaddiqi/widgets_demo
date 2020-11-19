@@ -3,9 +3,17 @@
 A new Flutter application.
 App contains many widgets with the main page as main menu where you can navigate to other pages.
 # Screen Shots
+<div class="row">
 <div align="center">
     <img src="https://github.com/razasaddiqi/widgets_demo/blob/master/screenshots/main_page.PNG" width="200px" </img> 
 </div>
+    <div align="center">
+    <img src="https://github.com/razasaddiqi/widgets_demo/blob/master/screenshots/main_page.PNG" width="200px" </img> 
+</div>
+    <div align="center">
+    <img src="https://github.com/razasaddiqi/widgets_demo/blob/master/screenshots/main_page.PNG" width="200px" </img> 
+</div>
+    </div>
 ## Getting Started
 
 This project is a starting point for a Flutter application.
