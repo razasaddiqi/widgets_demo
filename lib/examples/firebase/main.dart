@@ -17,6 +17,7 @@ class Note {
 void main() => runApp(MyApp());
 
 class MyApp extends StatelessWidget {
+  // final databaseReference = FirebaseDatabase.instance.reference();
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
